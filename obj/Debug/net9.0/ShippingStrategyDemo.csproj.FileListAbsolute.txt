@@ -1,0 +1,14 @@
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\bin\Debug\net9.0\ShippingStrategyDemo.exe
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\bin\Debug\net9.0\ShippingStrategyDemo.deps.json
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\bin\Debug\net9.0\ShippingStrategyDemo.runtimeconfig.json
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\bin\Debug\net9.0\ShippingStrategyDemo.dll
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\bin\Debug\net9.0\ShippingStrategyDemo.pdb
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\obj\Debug\net9.0\ShippingStrategyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\obj\Debug\net9.0\ShippingStrategyDemo.AssemblyInfoInputs.cache
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\obj\Debug\net9.0\ShippingStrategyDemo.AssemblyInfo.cs
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\obj\Debug\net9.0\ShippingStrategyDemo.csproj.CoreCompileInputs.cache
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\obj\Debug\net9.0\ShippingStrategyDemo.dll
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\obj\Debug\net9.0\refint\ShippingStrategyDemo.dll
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\obj\Debug\net9.0\ShippingStrategyDemo.pdb
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\obj\Debug\net9.0\ShippingStrategyDemo.genruntimeconfig.cache
+C:\UnipPrograma\SalaDeAula\ShippingStrategyDemo\obj\Debug\net9.0\ref\ShippingStrategyDemo.dll
